@@ -1,0 +1,1 @@
+This is a straightforward repository, whose primary purpose is to illustrate how one might structure a Python package and notebook.
